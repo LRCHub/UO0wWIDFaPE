@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SUPER DUPER",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2026-02-13T03:25:40.872807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super-Duper-Man",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/01_Super-Duper-Man_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Super Duper Party People",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/02_Super_Duper_Party_People_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Super Duper Love",
+      "artist": "Joss Stone",
+      "has_synced": true,
+      "path": "select/03_Super_Duper_Love_Joss_Stone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Super Duper Love (Are You Digg",
+      "artist": "Joss Stone",
+      "has_synced": true,
+      "path": "select/04_Super_Duper_Love_(Are_You_Digg_Joss_Stone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Super Duper Love",
+      "artist": "Stone, Joss",
+      "has_synced": true,
+      "path": "select/05_Super_Duper_Love_Stone,_Joss.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Super Duper Love (Are You Diggin' On Me)",
+      "artist": "Joss Stone",
+      "has_synced": false,
+      "path": "select/06_Super_Duper_Love_(Are_You_Diggin'_On_Me)_Joss_Stone.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Over You (Super Duper Remix)",
+      "artist": "Kasbo feat. Frida Sundemo",
+      "has_synced": false,
+      "path": "select/07_Over_You_(Super_Duper_Remix)_Kasbo_feat._Frida_Sundemo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over You (feat. Frida Sundemo) (Super Duper Remix) [Explicit]",
+      "artist": "Kasbo",
+      "has_synced": false,
+      "path": "select/08_Over_You_(feat._Frida_Sundemo)_(Super_Duper_Remix)_[Explicit]_Kasbo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Super Duper Van",
+      "artist": "Volcanova",
+      "has_synced": true,
+      "path": "select/09_Super_Duper_Van_Volcanova.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Super Duper Party Pony",
+      "artist": "\"Weird Al\" Yankovic feat. Pinkie Pie",
+      "has_synced": true,
+      "path": "select/10_Super_Duper_Party_Pony_Weird_Al__Yankovic_feat._Pinkie_Pie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Super Duper Party Pony",
+      "artist": "“Weird Al” Yankovic",
+      "has_synced": true,
+      "path": "select/11_Super_Duper_Party_Pony_“Weird_Al”_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Super Duper Love (Are You Diggin' On Me?) Pt. 1",
+      "artist": "Joss Stone",
+      "has_synced": true,
+      "path": "select/12_Super_Duper_Love_(Are_You_Diggin'_On_Me_)_Pt._1_Joss_Stone.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Super Duper Love (Are You Diggin On Me?) Pt. 1",
+      "artist": "Joss Stone",
+      "has_synced": true,
+      "path": "select/13_Super_Duper_Love_(Are_You_Diggin_On_Me_)_Pt._1_Joss_Stone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Super Duper",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/14_Super_Duper_AOA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Super Duper",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/15_Super_Duper_Super_Junior.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUPER DUPER",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_SUPER_DUPER_ReGLOSS.txt"
+    }
+  ]
+}
