@@ -1,0 +1,95 @@
+# ReGLOSS – SUPER DUPER
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yeah yeah! Yeah yeah!
+Yeah yeah! Ah-ah
+Yeah yeah! Yeah yeah!
+めくるめく好奇心は森羅万象
+行く末 神さえも知らぬ場所
+混じり気のない情熱が
+澄ました空虚を逆撫でたところ
+寝付きの悪い夜も
+途方もないバッドニュースも
+目まぐるしい時代も全部
+忘却の彼方へ笑い飛ばそう
+Gimme that
+Gimme that
+beat Right now!
+SUPER DUPER!
+オートクチュールのSHANGRI-LAで
+日が暮れるまで踊ろうよ
+誰が何と言おうと気にしない
+リミッター解除
+そう、ただ楽しむだけ
+美しい声を響かせて
+Yeah yeah!
+Yeah yeah!
+Yeah yeah!
+Ah-ah Ah-ah
+俯いた世界を変えてみせよう
+Yeah yeah!
+Yeah yeah!
+Yeah yeah!
+SUPER DUPER
+功が奏して満を持して形勢逆転
+たった一手決める激アツ確変
+転生してももう一度
+ここにCome back
+人生そのものが
+センセーショナルな漫画
+ビギナーから一躍
+羽ばたいていくオリジナル
+一番目指し
+走り出すでも
+地に足つけるジーニアス
+巷を揺るがすボヤ騒ぎ
+浮き足立ったって問題ない
+ざらついた胸の奥
+愛してやまないもの
+疑うことも知らないまま
+添い遂げる覚悟はできてるよ
+Gimme that
+Gimme that
+beat Right now!
+SUPER DUPER!
+オートクチュールのSHANGRI-LAで
+日が暮れるまで踊ろうよ
+誰が何と言おうと気にしない
+リミッター解除
+そう、ただ楽しむだけ
+美しい声を響かせて
+Yeah yeah!
+Yeah yeah!
+Yeah yeah!
+Ah-ah Ah-ah
+俯いた世界を変えてみせよう
+Yeah yeah!
+Yeah yeah!
+Yeah yeah!
+SUPER DUPER
+一喜一憂も
+一言一句注いで
+一心同体でいて
+こよなく恋したメロディと
+敢えなく手放したレプリカ
+まもなく君との
+境界線を越えリフレイン
+SUPER DUPER!
+オートクチュールのSHANGRI-LAで
+日が暮れるまで踊ろうよ
+誰が何と言おうと気にしない
+リミッター解除
+そう、ただ楽しむだけ
+美しい声を響かせて
+Yeah yeah!
+Yeah yeah!
+Yeah yeah!
+Ah-ah Ah-ah
+俯いた世界を変えてみせよう
+Yeah yeah!
+Yeah yeah!
+Yeah yeah!
+SUPER DUPER
+```
